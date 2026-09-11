@@ -22,7 +22,8 @@ This tutorial outlines the process of assigning security groups to users in Entr
 
 <p>
 <img width="1717" height="695" alt="image"
-src="https://github.com/user-attachments/assets/a3cab2e0-2571-460d-ac6e-d5b884f2d1e9" />
+<img width="1920" height="855" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/bc6139f5-e029-48d2-9081-5a6a96632897" />
+
 
   
 </p>
@@ -33,7 +34,8 @@ Assigned HR-Staff-SecGroup to user Chris Walker.
 
 <p>
 <img width="1729" height="700" alt="image"
-src="https://github.com/user-attachments/assets/e4cfbd3d-7eef-4179-a571-7d96e3163ec0" />
+<img width="1920" height="847" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/29c46af2-fdb7-4b9a-bf5f-112f62eab0e6" />
+
 
   
 </p>
